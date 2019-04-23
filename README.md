@@ -13,3 +13,6 @@ Classifying MNIST dataset using different approaches with MXNet.
 * [MNIST classification using Multilayer perceptron(MXNet Gluon)](https://github.com/jkotra/mnist-mxnet/blob/master/MNIST_MXNet_MLP.ipynb)
 
 * [MNIST classification using Convolutional neural network(CNN)](https://github.com/jkotra/mnist-mxnet/blob/master/MNIST_MXNet_CNN.ipynb)
+
+* [MNIST classification using Recurrent neural network(RNN)](https://github.com/jkotra/mnist-mxnet/blob/master/MNIST_MXNet_RNN.ipynb)
+
